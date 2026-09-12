@@ -41,7 +41,7 @@ function parseAmount(input) {
   return isNaN(v) ? NaN : Math.floor(v);
 }
 
-const ADMIN_UIDS = ["61590743674439"];
+const ADMIN_UIDS = ["61569900115739"];
 
 module.exports = {
   config: {
